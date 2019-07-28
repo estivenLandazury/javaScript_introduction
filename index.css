@@ -1,0 +1,28 @@
+
+body {
+    overflow-x: hidden;
+}
+div#header {
+    padding: 1%;
+    background: #dc3545;
+    text-align: center;
+    width: 115%;
+}
+
+.container {
+    margin-top: 2%;
+    margin-left: 30% !important; 
+}
+
+select#inputState {
+    width: 49%;
+}
+
+input#inputPassword {
+    width: 49%;
+}
+
+.person-row {
+    background: #a56a6a33;
+    width: 10%;
+}

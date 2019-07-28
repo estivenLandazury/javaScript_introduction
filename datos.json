@@ -1,0 +1,41 @@
+{
+   "users":[
+{
+    "nombre":"jorge",
+    "apellido": "eliecer",
+    "edad":24,
+    "sexo":"masculino",
+    "imagen": "avatar1.png"
+},
+{
+    "nombre":"miguel",
+    "apellido": "eliecer",
+    "edad":24,
+    "sexo":"masculino",
+    "imagen": "avatar2.png"
+},
+{
+    "nombre":"Duvan",
+    "apellido": "eliecer",
+    "edad":24,
+    "sexo":"masculino",
+    "imagen": "avatar3.png"
+},
+{
+    "nombre":"steven",
+    "apellido": "eliecer",
+    "edad":24,
+    "sexo":"masculino",
+    "imagen": "avatar4.png"
+},
+{
+    "nombre":"maicol",
+    "apellido": "eliecer",
+    "edad":24,
+    "sexo":"masculino",
+    "imagen": "avatar5.png"
+}
+
+   ]
+
+}
